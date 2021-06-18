@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, I'm noob.
+We have to complete a lot of shiz honey, move your lakk.
 Use the left arrow to go back!
